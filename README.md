@@ -1,5 +1,14 @@
 # 电力负荷预测(第四届世界科学智能大赛 · 全国电力负荷预测竞赛)
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/conversition/energy-load-forecast" alt="License"/>
+  <img src="https://img.shields.io/github/languages/top/conversition/energy-load-forecast" alt="Top Language"/>
+  <img src="https://img.shields.io/github/languages/count/conversition/energy-load-forecast" alt="Languages"/>
+  <img src="https://img.shields.io/github/repo-size/conversition/energy-load-forecast" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/last-commit/conversition/energy-load-forecast" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/stars/conversition/energy-load-forecast" alt="Stars"/>
+</p>
+
 基于边界条件与气象数据,预测 **D+1 全天 96 个 15 分钟粒度实时电价**,并在容量、功率、充放电频次约束下生成充放电计划,实现**日均收益最大化**。
 
 ## 🎯 项目目标
