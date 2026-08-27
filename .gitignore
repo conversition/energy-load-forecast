@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 运行日志
+*.log
+
+# 竞赛数据与数据集元信息(体积大/不纳入仓库)
+dataset_infos.json
+temp.csv
+*.csv
+output/
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
