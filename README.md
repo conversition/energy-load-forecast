@@ -36,6 +36,8 @@ Python · LightGBM · GradientBoostingRegressor · Pandas · NumPy · Xarray · 
 ### 3. 策略与评估
 - 充放电策略约束建模(容量/功率/频次),`v*_profit_eval` 系列脚本以收益评估模型
 
+> 📊 **结果与迭代记录**:[docs/RESULTS.md](docs/RESULTS.md) — 收益导向评估方法论、可验证技术演进线(脚本即证据)、复跑方式
+
 ## 📁 代码结构
 
 ```
